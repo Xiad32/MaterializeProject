@@ -22,7 +22,8 @@
             app:expandedTitleTextAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"
             android:background="@color/photo_placeholder"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
-            app:expandedTitleMarginStart="72dp">
+            app:expandedTitleMarginStart="72dp"
+            android:elevation="4dp">
             <!--suppress AndroidLintContentDescription -->
 
 
